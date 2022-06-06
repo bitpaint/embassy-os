@@ -36,7 +36,7 @@ lazy_static = "1.4"
 libc = "0.2.86"
 linear-map = { version = "1.2", features = ["serde_impl"] }
 log = "0.4.11"
-nix = "0.19.1"
+nix = "0.20.2"
 openssl = "0.10.30"
 pest = "2.1"
 pest_derive = "2.1"
